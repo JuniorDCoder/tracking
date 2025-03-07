@@ -1472,13 +1472,13 @@ p:last-child {
   opacity: 0.7;
 }
 .hero-slider-two .hero-slider-two-item.item-bg1 {
-  background-image: url(../img/hero-slider/shippping_1.jpg);
+  background-image: url(../img/freight/freight-1.jpeg);
 }
 .hero-slider-two .hero-slider-two-item.item-bg2 {
-  background-image: url(../img/hero-slider/shippping_2.jpg);
+  background-image: url(../img/freight/ups1.jpeg);
 }
 .hero-slider-two .hero-slider-two-item.item-bg3 {
-  background-image: url(../img/hero-slider/shippping_3.jpg);
+  background-image: url(../img/freight/ship.jpeg);
 }
 .hero-slider-two .hero-slider-two-item .banner-content span {
   color: #fff;
