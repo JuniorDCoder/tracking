@@ -1399,10 +1399,10 @@ p:last-child {
   opacity: 0.6;
 }
 .hero-slider .hero-slider-item.item-bg1 {
-  background-image: url(../img/hero-slider/hero-slider1.jpg);
+  background-image: url(../img/freight/freight-1.jpeg);
 }
 .hero-slider .hero-slider-item.item-bg2 {
-  background-image: url(../img/hero-slider/hero-slider2.jpg);
+  background-image: url(../img/freight/ups1.jpeg);
 }
 .hero-slider .hero-slider-item.item-bg3 {
   background-image: url(../img/hero-slider/hero-slider3.jpg);
@@ -3219,7 +3219,7 @@ p:last-child {
   position: absolute;
 }
 .shipmante-area.shipmante-area-bg {
-  background-image: url(../img/shipmante-bg1.jpg);
+  background-image: url(../img/area.jpeg);
 }
 .shipmante-area .shipmante-text {
   position: relative;
